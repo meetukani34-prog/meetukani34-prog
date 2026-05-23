@@ -36,7 +36,7 @@ I am a **Computer Science and Engineering** undergraduate student at **Visvesvar
 ## 📊 GitHub Stats
 
 ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetukani34-prog&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=meetukani34-prog&layout=compact&theme=dark)
 
 ---
 
