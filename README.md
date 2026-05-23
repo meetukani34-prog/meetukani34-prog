@@ -36,8 +36,7 @@ I am a **Computer Science and Engineering** undergraduate student at **Visvesvar
 ## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetukani34-prog&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=meetukani34-prog&layout=compact&theme=dark)
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=meetukani34-prog&layout=compact&theme=dark)
 ---
 
 ## 🤝 Connect with Me
