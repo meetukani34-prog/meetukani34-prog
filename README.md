@@ -1,45 +1,50 @@
 # Hi there, I'm Meet Ukani! 👋
-### 🚀 Computer Science & Engineering Student | Full-Stack Developer
+### 🤖 AI Enthusiast | Core Developer | Full-Stack Engineer
 
-I am a passionate **Computer Science and Engineering** undergraduate student at **Visvesvaraya Technological University (VTU)**. I love building modern, high-performance web applications and exploring the intersection of clean UI/UX and robust backend logic.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Frontend & UI/UX
-- **Languages & Frameworks:** React.js, Next.js, JavaScript, HTML5, CSS3
-- **Styling:** Tailwind CSS (Love minimal, clean, and modern aesthetics)
-
-### ⚙️ Backend & Database
-- **Languages:** Python, C
-- **Tools & Platforms:** Supabase, Node.js
-
-### 🔧 Tools & Hardware
-- **Version Control:** Git & GitHub
-- **Design:** AutoCAD, Canva
-- **Core Engineering:** Technical drafting & problem solving
+I am a **Computer Science and Engineering** undergraduate student at **Visvesvaraya Technological University (VTU)**. I bridge the gap between robust core programming, intelligent AI systems, and modern web architectures. 
 
 ---
 
-## 🚀 Projects & Focus Areas
-- 🏥 **Digital Health Identity Systems:** Working on QR-based verified patient record platforms.
-- 📝 **EdTech Tools:** Building next-gen exam management portals with smart proctoring features.
-- 🤖 **AI-Powered Analytics:** Developing NLP-based resume scoring and ATS analyzers.
-- 🎨 **Creative Coding:** Experimenting with 3D particle systems and interactive web experiences.
+## 🛠️ Skills & Technologies
+
+### 💻 Core Programming Languages
+- **Languages:** Python, C, JavaScript (ES6+)
+
+### 🧠 Artificial Intelligence & NLP
+- **Libraries & Frameworks:** NLP (spaCy, NLTK), Python Data Science Ecosystem
+- **Focus Areas:** Text Processing, ATS Scoring Algorithms, Automated Ingestion
+
+### 🌐 Web Development (Full-Stack)
+- **Frontend & Frameworks:** Next.js, React.js, HTML5, CSS3
+- **Styling & UI/UX:** Tailwind CSS (Focus on minimal, sleek, and high-performance designs)
+- **Backend & Backend-as-a-Service:** Node.js, Supabase
+
+### ☁️ Cloud & CRM Platforms
+- **Platforms:** Salesforce (Platform Basics)
+
+---
+
+## 🚀 Featured AI & Tech Projects
+
+- 🤖 **Stitch (AI-Powered Resume Analyzer):** Built an intelligent ATS scoring and skill gap analysis system using **Natural Language Processing (spaCy & NLTK)**.
+- 📝 **Next-Gen Exam Portal:** Developing a smart proctoring system with automated question ingestion from PDFs/Excel files and browser-level security.
+- 🏥 **Universal Health QR (Sarvam):** A digital health identity system utilizing QR codes and secure OTP verification for patient records.
+- 🎨 **Interactive 3D Graphics:** Experimented with real-time 3D particle systems using Three.js and webcams.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
 
 ---
 
 ## 🤝 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
 - 📧 [Email](mailto:YOUR_EMAIL_ADDRESS)
+
+*"Leveraging AI and core computing to build the technology of tomorrow."* 🚀
 
 *"Turning lines of code into impactful, real-world solutions."* 🚀
 <!--
