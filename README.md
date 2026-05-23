@@ -8,7 +8,7 @@ I am a **Computer Science and Engineering** undergraduate student at **Visvesvar
 ## 🛠️ Skills & Technologies
 
 ### 💻 Core Programming Languages
-- **Languages:** Python, C, JavaScript (ES6+)
+- **Languages:** Python, C, C++, JavaScript (ES6+)
 
 ### 🧠 Artificial Intelligence & NLP
 - **Libraries & Frameworks:** NLP (spaCy, NLTK), Python Data Science Ecosystem
@@ -35,8 +35,8 @@ I am a **Computer Science and Engineering** undergraduate student at **Visvesvar
 
 ## 📊 GitHub Stats
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=meetukani34-prog&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=dark)
 
 ---
 
