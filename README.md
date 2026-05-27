@@ -151,9 +151,9 @@ A digital health identity framework enabling secure patient record access using 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/meetukani34-prog)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meet%20Ukani-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meet%20Ukani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meet-ukani-0146a7383)
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:meet.ukani34@gmail.com)
 
 </div>
 
