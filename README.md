@@ -75,8 +75,12 @@ goal: To build high-performance web applications and explore intelligent AI solu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetukani34-prog&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetukani34-prog&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetukani34-prog&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meetukani34-prog&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meetukani34-prog&theme=tokyonight" />
 </p>
 ---
 
