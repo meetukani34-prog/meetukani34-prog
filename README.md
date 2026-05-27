@@ -24,7 +24,7 @@
 ```yaml
 name: Meet Ukani
 role: CSE Student
-college: Visvesvaraya Technological University (VTU)
+college: Rathinam institute of technology 
 specialization: Computer Science and Engineering
 location: India
 goal: To build high-performance web applications and explore intelligent AI solutions
