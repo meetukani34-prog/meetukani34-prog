@@ -1,26 +1,39 @@
 # Hi there, I'm Meet Ukani! 👋
 ### 🤖 AI Enthusiast | Core Developer | Full-Stack Engineer
 
-I am a **Computer Science and Engineering** undergraduate student at **Visvesvaraya Technological University (VTU)**. I bridge the gap between robust core programming, intelligent AI systems, and modern web architectures. 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=meetukani34-prog&label=Weekly+Profile+Views&color=744efc&style=flat-square" alt="Profile Views" />
+</p>
+
+I am a **Computer Science and Engineering** undergraduate student at **Visvesvaraya Technological University (VTU)**. I bridge the gap between robust core programming, intelligent AI systems, and modern web architectures.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📊 Dashboard & Core Competencies
 
-### 💻 Core Programming Languages
-- **Languages:** Python, C, C++, JavaScript (ES6+)
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="55%" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetukani34-prog&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=meetukani34-prog&layout=compact&theme=tokyonight" alt="Top Langs" width="100%" />
+    </td>
+    <td width="5%"></td>
+    <td width="40%" valign="top" align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,py,js,ts,react,nextjs,html,css,tailwind,nodejs,supabase,git,vscode,figma,notion&perline=4&theme=dark" alt="My Skills" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🧠 Artificial Intelligence & NLP
-- **Libraries & Frameworks:** NLP (spaCy, NLTK), Python Data Science Ecosystem
-- **Focus Areas:** Text Processing, ATS Scoring Algorithms, Automated Ingestion
+---
 
-### 🌐 Web Development (Full-Stack)
-- **Frontend & Frameworks:** Next.js, React.js, HTML5, CSS3
-- **Styling & UI/UX:** Tailwind CSS (Focus on minimal, sleek, and high-performance designs)
-- **Backend & Backend-as-a-Service:** Node.js, Supabase
+## 📈 Contribution Activity
 
-### ☁️ Cloud & CRM Platforms
-- **Platforms:** Salesforce (Platform Basics)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetukani34-prog&theme=tokyonight" alt="Meet's Contribution Graph" width="100%" />
+</p>
 
 ---
 
@@ -33,30 +46,9 @@ I am a **Computer Science and Engineering** undergraduate student at **Visvesvar
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meetukani34-prog&theme=dark)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=meetukani34-prog&layout=compact&theme=dark)
----
-
 ## 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/meet-ukani-0146a7383)
-- 📧 [Email](mailto:meet.ukani34@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
 
 *"Leveraging AI and core computing to build the technology of tomorrow."* 🚀
-
-*"Turning lines of code into impactful, real-world solutions."* 🚀
-<!--
-**meetukani34-prog/meetukani34-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
