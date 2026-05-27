@@ -78,10 +78,9 @@ goal: To build high-performance web applications and explore intelligent AI solu
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=meetukani34-prog&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=meetukani34-prog&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=meetukani34-prog&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 # 📈 Contribution Graph
