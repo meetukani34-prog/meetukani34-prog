@@ -40,8 +40,8 @@ I am a **Computer Science and Engineering** undergraduate student at **Visvesvar
 ---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-- 📧 [Email](mailto:YOUR_EMAIL_ADDRESS)
+- 💼 [LinkedIn](https://www.linkedin.com/in/meet-ukani-0146a7383)
+- 📧 [Email](mailto:meet.ukani34@gmail.com)
 
 *"Leveraging AI and core computing to build the technology of tomorrow."* 🚀
 
