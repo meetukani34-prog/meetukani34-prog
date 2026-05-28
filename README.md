@@ -22,12 +22,12 @@
 # 🚀 About Me
 
 ```yaml
-name: Meet Ukani
-role: CSE Student
-college: Rathinam institute of technology 
-specialization: Computer Science and Engineering
-location: India
-goal: To build high-performance web applications and explore intelligent AI solutions
+Name: Meet Ukani
+Role: CSE Student
+College: Rathinam institute of technology 
+Specialization: Computer Science and Engineering
+Location: India
+Goal: To build high-performance web applications and explore intelligent AI solutions
 ```
 
 - 🎓 Currently pursuing **B.E. in Computer Science and Engineering**
